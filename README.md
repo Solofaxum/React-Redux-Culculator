@@ -1,1 +1,1 @@
-# React-Redux-Culculator
+# React-Redux-Calculator
